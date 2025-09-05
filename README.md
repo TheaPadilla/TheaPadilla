@@ -29,9 +29,6 @@
 > Here are some of my favorite learning adventures:
 
 - [Advance_Mob-dev](https://github.com/TheaPadilla/Advance_Mob-dev)
-- [HomeAndAbout](https://github.com/TheaPadilla/HomeAndAbout)
-- [PlatformTechDemo](https://github.com/TheaPadilla/PlatformTechDemo)
-- [MOBDEV (by Cheeskaa)](https://github.com/Cheeskaa/MOBDEV)
 
 ---
 
